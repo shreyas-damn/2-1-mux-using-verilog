@@ -1,0 +1,78 @@
+$date
+	Fri Mar 20 00:16:14 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module mux21_tb $end
+$var wire 5 ! y_op [4:0] $end
+$var parameter 32 " width_tb $end
+$var reg 5 # a_tb [4:0] $end
+$var reg 5 $ b_tb [4:0] $end
+$var reg 1 % sel_tb $end
+$scope module DUT $end
+$var wire 5 & a [4:0] $end
+$var wire 5 ' b [4:0] $end
+$var wire 1 % sel $end
+$var parameter 32 ( width $end
+$var reg 5 ) y [4:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b101 (
+b101 "
+$end
+#0
+$dumpvars
+b0 )
+b0 '
+b0 &
+0%
+b0 $
+b0 #
+b0 !
+$end
+#10000
+b1 $
+b1 '
+#20000
+b1 !
+b1 )
+b0 $
+b0 '
+b1 #
+b1 &
+#30000
+b1 $
+b1 '
+#40000
+b0 !
+b0 )
+b0 $
+b0 '
+b0 #
+b0 &
+1%
+#50000
+b1 !
+b1 )
+b1 $
+b1 '
+#60000
+b0 !
+b0 )
+b0 $
+b0 '
+b1 #
+b1 &
+#70000
+b1 !
+b1 )
+b1 $
+b1 '
+#80000
