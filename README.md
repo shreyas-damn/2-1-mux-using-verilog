@@ -42,3 +42,5 @@ The testbench verifies the functionality of the MUX.
 - `$dumpvars`
 
 ### Monitoring
+- `Displays real-time simulation values:`
+  `Time | sel | a | b | y`
