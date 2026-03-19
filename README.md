@@ -44,3 +44,8 @@ The testbench verifies the functionality of the MUX.
 ### Monitoring
 - `Displays real-time simulation values:`
   `Time | sel | a | b | y`
+
+
+
+  <img width="2658" height="718" alt="image" src="https://github.com/user-attachments/assets/0a79efa7-7579-4314-933d-0a77768a55b2" />
+
