@@ -45,6 +45,9 @@ The testbench verifies the functionality of the MUX.
 - `Displays real-time simulation values:`
   `Time | sel | a | b | y`
 
+  <img width="772" height="288" alt="image" src="https://github.com/user-attachments/assets/b9518077-51e0-47a3-9c35-e16595bf30cc" />
+
+
 ### GTKwave Waveform
 
   <img width="2658" height="718" alt="image" src="https://github.com/user-attachments/assets/0a79efa7-7579-4314-933d-0a77768a55b2" />
